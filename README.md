@@ -10,10 +10,15 @@ couplings and data passes are complete and which still need more development.
 
 <img src='experiment_diagram/experiment-B-N6_interconnect.png?raw=true' width=720 />
 
+For the sake of the demonstration we will use the RCP 8.5 "hotter" climate forcing with the SSP5 socioeconomic
+forcing (e.g., "rcp85hotter_ssp5"). Even if you are passing dummy or sample data from your model to a downstream model
+please use this scenario name as a placeholder so that we mimic the directory structures that will be present when we  
+execute the actual runs.
+
 ## Contributing models
 | Model | Version | Repository Link |
 |-------|---------|-----------------|
-| WRF | TBD | TBD |
+| WRF | v4.2.1 | TBD |
 | Population | TBD | TBD |
 | Xanthos | TBD | TBD |
 | Helios | TBD | TBD |
@@ -22,6 +27,16 @@ couplings and data passes are complete and which still need more development.
 | TELL | v1.0 | https://github.com/IMMM-SFA/tell |
 | CERF | TBD | TBD |
 | GO | TBD | TBD |
+
+## Forcing data
+For this demonstration we'll use the IM3 WRF runs for the rcp85hotter_ssp5 scenario. Details about the forcing data 
+is provided in the table below.
+
+| Type | Model | Platform | Directory |
+|------|-------|----------| ----------|
+| Climate | WRF | NERSC | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_NEAR |
+                          /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_FAR |
+| Population | ? | PIC | TBD |
 
 ## Reproduce this demonstration
 1. Install the software components required to conduct the experiment from [Contributing modeling software](#contributing-modeling-software)
