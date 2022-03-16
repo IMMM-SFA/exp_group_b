@@ -12,8 +12,6 @@ couplings and data passes are complete and which still need more development.
   <img src="experiment_diagram/experiment-B-N6_interconnect.png" />
 </p>
 
-#<img src='experiment_diagram/experiment-B-N6_interconnect.png?raw=true' width=720 align="center" />
-
 For the sake of the demonstration we will use the RCP 8.5 "hotter" climate forcing with the SSP5 socioeconomic
 forcing: rcp85hotter_ssp5. Even if you are passing dummy or sample data from your model to a downstream model
 please use this scenario name as a placeholder so that we mimic the directory structures that will be present when we 
@@ -26,17 +24,17 @@ Please store your data for this demonstration on PNNL's Instutional Computing (P
 |-------|---------|-----------------|
 | WRF | v4.2.1 | https://github.com/IMMM-SFA/wrf_historical |
 | Population | TBD | TBD |
-| Xanthos | TBD | TBD |
+| Xanthos | v2.4.1 | https://github.com/JGCRI/xanthos |
 | Helios | TBD | TBD |
 | Persephone | TBD | TBD |
-| GCAM-USA | TBD | TBD |
+| GCAM-USA | v5.3 | https://stash.pnnl.gov/projects/JGCRI/repos/gcam-core/browse?at=refs%2Fheads%2Fzk%2Ffeature%2Fgcam-usa-im3 |
 | TELL | v1.0 | https://github.com/IMMM-SFA/tell |
 | CERF | TBD | TBD |
 | GO | TBD | TBD |
 
 ## Forcing data
-For this demonstration we'll use the IM3 WRF runs for the rcp85hotter_ssp5 scenario. Details about the forcing data 
-are provided in the table below.
+For this demonstration we'll use the IM3 WRF and population dynamics runs for the rcp85hotter_ssp5 scenario. Details 
+about the forcing data are provided in the table below.
 
 | Type | Platform | Years | Directory | Documentation |
 |------|----------| ------| ----------| --------------|
@@ -44,6 +42,10 @@ are provided in the table below.
 | Climate | NERSC | 2060-2099 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_FAR | https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing |
 | Population | PIC | 2020-2100 | /pic/projects/im3/exp_group_b_test/forcing_data/population | TBD |
 
-## Reproduce this demonstration
-1. Install the software components required to conduct the experiment from [Contributing modeling software](#contributing-modeling-software)
-2. Download and install the supporting input data required to conduct the experiment from [Input data](#input-data)
+## Model coupling
+| from_to | Repository Link | Directory | Documentation |
+|---------|-----------------|-----------| --------------|
+| wrf_to_xanthos | TBD | TBD | https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/ |
+| wrf_to_helios | TBD | TBD | https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/ |
+| wrf_to_persephone | TBD | TBD | https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/ |
+| wrf_to_tell | https://github.com/IMMM-SFA/im3components/tree/main/im3components/wrf_to_tell | /pic/projects/im3/exp_group_b_test/output_data/wrf_to_tell | TBD |
