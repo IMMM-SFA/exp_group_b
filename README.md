@@ -8,11 +8,15 @@ the process of connecting the models together. At this stage all the component m
 output datasets. Those sample outputs are sufficient for this demonstration as the purpose is to understand which 
 couplings and data passes are complete and which still need more development.
 
-<img src='experiment_diagram/experiment-B-N6_interconnect.png?raw=true' width=720 align="center" />
+<p align="center">
+  <img src="experiment_diagram/experiment-B-N6_interconnect.png" />
+</p>
+
+#<img src='experiment_diagram/experiment-B-N6_interconnect.png?raw=true' width=720 align="center" />
 
 For the sake of the demonstration we will use the RCP 8.5 "hotter" climate forcing with the SSP5 socioeconomic
 forcing: rcp85hotter_ssp5. Even if you are passing dummy or sample data from your model to a downstream model
-please use this scenario name as a placeholder so that we mimic the directory structures that will be present when we  
+please use this scenario name as a placeholder so that we mimic the directory structures that will be present when we 
 execute the actual runs.
 
 Please store your data for this demonstration on PNNL's Instutional Computing (PIC) at: `/pic/projects/im3/exp_group_b_test`
