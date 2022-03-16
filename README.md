@@ -1,7 +1,7 @@
 # End-to-End Demonstration of Exp. Group B Workflow
 
 ## Summary
-We are now at the stage where it is possible to conduct an end-to-end demonstration of the models and model couplings  
+We are now at the stage where it is possible to conduct an end-to-end demonstration of the models and model couplings 
 required for IM3 Exp. Group B experiments. This metarepository is meant to be a landing place for that
 demonstration. The basic idea is that we should work off of the wiring diagram below and actually go through
 the process of connecting the models together. At this stage all the component models are producing at least sample 
