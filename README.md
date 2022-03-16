@@ -1,14 +1,14 @@
 # End-to-End Demonstration of Exp. Group B Workflow
 
 ## Summary
-We are now at the stage where it is possible to conduct an end-to-end demonstration of the models, model couplings, and
-data passes required for IM3 Exp. Group B experiments. This metarepository is meant to be a landing place for that
+We are now at the stage where it is possible to conduct an end-to-end demonstration of the models and model couplings  
+required for IM3 Exp. Group B experiments. This metarepository is meant to be a landing place for that
 demonstration. The basic idea is that we should work off of the wiring diagram below and actually go through
 the process of connecting the models together. At this stage all the component models are producing at least sample 
 output datasets. Those sample outputs are sufficient for this demonstration as the purpose is to understand which 
 couplings and data passes are complete and which still need more development.
 
-<img src='experiment_diagrams/experiment-B-N6_interconnect.png?raw=true' width=720 />
+<img src='experiment_diagram/experiment-B-N6_interconnect.png?raw=true' width=720 />
 
 ## Contributing models
 | Model | Version | Repository Link |
