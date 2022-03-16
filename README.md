@@ -32,11 +32,11 @@ execute the actual runs.
 For this demonstration we'll use the IM3 WRF runs for the rcp85hotter_ssp5 scenario. Details about the forcing data 
 is provided in the table below.
 
-| Type | Model | Platform | Directory |
-|------|-------|----------| ----------|
-| Climate | WRF | NERSC | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_NEAR |
-                          /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_FAR |
-| Population | ? | PIC | TBD |
+| Type | Platform | Years | Directory | Documentation |
+|------|----------| ------| ----------| --------------|
+| Climate | NERSC | 2020-2059 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_NEAR | https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing |
+| Climate | NERSC | 2060-2099 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_FAR | https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing |
+| Population | PIC | TBD | TBD | TBD |
 
 ## Reproduce this demonstration
 1. Install the software components required to conduct the experiment from [Contributing modeling software](#contributing-modeling-software)
