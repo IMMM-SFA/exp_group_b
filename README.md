@@ -15,10 +15,12 @@ forcing (e.g., "rcp85hotter_ssp5"). Even if you are passing dummy or sample data
 please use this scenario name as a placeholder so that we mimic the directory structures that will be present when we  
 execute the actual runs.
 
+Please store your data for this demonstration on PNNL's Instutional Computing (PIC) at: `/pic/projects/im3/exp_group_b_test`
+
 ## Contributing models
 | Model | Version | Repository Link |
 |-------|---------|-----------------|
-| WRF | v4.2.1 | TBD |
+| WRF | v4.2.1 | https://github.com/IMMM-SFA/wrf_historical |
 | Population | TBD | TBD |
 | Xanthos | TBD | TBD |
 | Helios | TBD | TBD |
@@ -30,25 +32,14 @@ execute the actual runs.
 
 ## Forcing data
 For this demonstration we'll use the IM3 WRF runs for the rcp85hotter_ssp5 scenario. Details about the forcing data 
-is provided in the table below.
+are provided in the table below.
 
 | Type | Platform | Years | Directory | Documentation |
 |------|----------| ------| ----------| --------------|
 | Climate | NERSC | 2020-2059 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_NEAR | https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing |
 | Climate | NERSC | 2060-2099 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_FAR | https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing |
-| Population | PIC | TBD | TBD | TBD |
+| Population | PIC | 2020-2100 | /pic/projects/im3/exp_group_b_test/forcing_data/population | TBD |
 
 ## Reproduce this demonstration
 1. Install the software components required to conduct the experiment from [Contributing modeling software](#contributing-modeling-software)
 2. Download and install the supporting input data required to conduct the experiment from [Input data](#input-data)
-
-| Script Name | Description | How to Run |
-| --- | --- | --- |
-| `step_one.py` | Script to run the first part of my experiment | `python3 step_one.py -f /path/to/inputdata/file_one.csv` |
-
-## Reproduce the figures
-Use the scripts found in the `figures` directory to reproduce the figures used in this demonstration.
-
-| Script Name | Description | How to Run |
-| --- | --- | --- |
-| `generate_figures.py` | Script to generate my figures | `python3 generate_figures.py -i /path/to/inputs -o /path/to/outuptdir` |
