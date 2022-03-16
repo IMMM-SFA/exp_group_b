@@ -13,11 +13,10 @@ couplings and data passes are complete and which still need more development.
 </p>
 
 For the sake of the demonstration we will use the RCP 8.5 "hotter" climate forcing with the SSP5 socioeconomic
-forcing: rcp85hotter_ssp5. Even if you are passing dummy or sample data from your model to a downstream model
-please use this scenario name as a placeholder so that we mimic the directory structures that will be present when we 
-execute the actual runs.
+forcing: rcp85hotter_ssp5. Please use this scenario name in your output directories. If you are passing sample data 
+that is not from the rcp85hotter_ssp5 scenario then just label your output directory "sample_data".
 
-Please store your data for this demonstration on PNNL's Instutional Computing (PIC) at: `/pic/projects/im3/exp_group_b_test`
+Please store your data for this demonstration on PNNL's Institutional Computing (PIC) at: `/pic/projects/im3/exp_group_b_test`
 
 ## Contributing models
 | Model | Version | Repository Link |
