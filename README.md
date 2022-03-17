@@ -19,32 +19,32 @@ that is not from the rcp85hotter_ssp5 scenario then just label your output direc
 Please store your data for this demonstration on PNNL's Institutional Computing (PIC) at: `/pic/projects/im3/exp_group_b_test`
 
 # Legend
-🔴 = Not started
-🟡 = In progress
-🟢 = Completed
+🔴 = Not started  
+🟡 = In progress  
+🟢 = Completed  
 
 ## Contributing models
-| Model | Version | Code |
-|-------|---------|------|
-| WRF | v4.2.1 | https://github.com/IMMM-SFA/wrf_historical |
-| Population | TBD | TBD |
-| Xanthos | v2.4.1 | https://github.com/JGCRI/xanthos |
-| Helios | TBD | TBD |
-| Persephone | TBD | TBD |
-| GCAM-USA | v5.3 | https://stash.pnnl.gov/projects/JGCRI/repos/gcam-core/browse?at=refs%2Fheads%2Fzk%2Ffeature%2Fgcam-usa-im3 |
-| TELL | v1.0 | https://github.com/IMMM-SFA/tell |
-| CERF | TBD | TBD |
-| GO | TBD | TBD |
+| Model | Status | Version | Code |
+|-------|--------|---------|------|
+| WRF | 🟢 | v4.2.1 | https://github.com/IMMM-SFA/wrf_historical |
+| Population | 🟡 | TBD | TBD |
+| Xanthos | 🟡 | v2.4.1 | https://github.com/JGCRI/xanthos |
+| Helios | 🟡 | TBD | TBD |
+| Persephone | 🟡 | TBD | TBD |
+| GCAM-USA | 🟡 | v5.3 | https://stash.pnnl.gov/projects/JGCRI/repos/gcam-core/browse?at=refs%2Fheads%2Fzk%2Ffeature%2Fgcam-usa-im3 |
+| TELL | 🟡 | v1.0 | https://github.com/IMMM-SFA/tell |
+| CERF | 🟡 | TBD | TBD |
+| GO | 🟡 | TBD | TBD |
 
 ## Forcing data
 For this demonstration we'll use the IM3 WRF and population dynamics runs for the rcp85hotter_ssp5 scenario. Details 
 about the forcing data are provided in the table below.
 
-| Type | Platform | Years | Directory | Documentation |
-|------|----------| ------| ----------| --------------|
-| Climate | NERSC | 2020-2059 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_NEAR | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing) |
-| Climate | NERSC | 2060-2099 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_FAR | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing) |
-| Population | PIC | 2020-2100 | /pic/projects/im3/exp_group_b_test/forcing_data/population | TBD |
+| Type | Status | Platform | Years | Directory | Documentation |
+|------|--------|----------| ------| ----------| --------------|
+| Climate | 🟢 | NERSC | 2020-2059 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_NEAR | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing) |
+| Climate | 🟢 | NERSC | 2060-2099 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_FAR | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing) |
+| Population | 🟢 | PIC | 2020-2100 | /pic/projects/im3/exp_group_b_test/forcing_data/population | TBD |
 
 <span style="color:blue">some *blue* text</span>
 
