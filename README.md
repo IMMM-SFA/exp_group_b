@@ -46,7 +46,7 @@ about the forcing data are provided in the table below.
 ## Model coupling
 | # | From/To | Code | Directory | Documentation |
 |---|---------|------|-----------| --------------|
-| 1  | wrf_to_xanthos | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
+| 1  | wrf_to_xanthos | 🔴 | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 2  | wrf_to_helios | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 3  | wrf_to_persephone | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 4  | wrf_to_tell | [Code](https://github.com/IMMM-SFA/im3components/tree/main/im3components/wrf_to_tell) | /pic/projects/im3/exp_group_b_test/output_data/wrf_to_tell | TBD |
