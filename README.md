@@ -25,7 +25,7 @@ Please store your data for this demonstration on PNNL's Institutional Computing 
 
 ## Contributing models
 | Model | Status | Version | Code |
-|:--|:-:|:-:|:--|
+|:-:|:-:|:-:|:--|
 | WRF | 🟢 | v4.2.1 | https://github.com/IMMM-SFA/wrf_historical |
 | Population | 🟡 | TBD | TBD |
 | Xanthos | 🟡 | v2.4.1 | https://github.com/JGCRI/xanthos |
@@ -41,16 +41,14 @@ For this demonstration we'll use the IM3 WRF and population dynamics runs for th
 about the forcing data are provided in the table below.
 
 | Type | Status | Platform | Years | Directory | Documentation |
-|------|--------|----------| ------| ----------| --------------|
+|:-:|:-:|:-:|:-:|:--|:--|
 | Climate | 🟢 | NERSC | 2020-2059 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_NEAR | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing) |
 | Climate | 🟢 | NERSC | 2060-2099 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_FAR | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing) |
 | Population | 🟢 | PIC | 2020-2100 | /pic/projects/im3/exp_group_b_test/forcing_data/population | TBD |
 
-<span style="color:blue">some *blue* text</span>
-
 ## Model coupling
 | # | From/To | Status | Code | Directory | Documentation |
-|---|---------|--------|------|-----------| --------------|
+|:-:|:-:|:-:|:-:|:--|:-:|
 | 1  | wrf_to_xanthos | 🟡 | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 2  | wrf_to_helios | 🟡 | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 3  | wrf_to_persephone | 🟡 | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
