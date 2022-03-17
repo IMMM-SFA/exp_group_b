@@ -19,8 +19,8 @@ that is not from the rcp85hotter_ssp5 scenario then just label your output direc
 Please store your data for this demonstration on PNNL's Institutional Computing (PIC) at: `/pic/projects/im3/exp_group_b_test`
 
 ## Contributing models
-| Model | Version | Repository Link |
-|-------|---------|-----------------|
+| Model | Version | Code |
+|-------|---------|------|
 | WRF | v4.2.1 | https://github.com/IMMM-SFA/wrf_historical |
 | Population | TBD | TBD |
 | Xanthos | v2.4.1 | https://github.com/JGCRI/xanthos |
@@ -42,9 +42,9 @@ about the forcing data are provided in the table below.
 | Population | PIC | 2020-2100 | /pic/projects/im3/exp_group_b_test/forcing_data/population | TBD |
 
 ## Model coupling
-| # | From/To | Repository Link | Directory | Documentation |
-|---|---------|-----------------|-----------| --------------|
-| 1  | wrf_to_xanthos | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
+| # | From/To | Code | Directory | Documentation |
+|---|---------|------|-----------| --------------|
+| 1  | wrf_to_xanthos | <span style="color: red;">TBD</span> | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 2  | wrf_to_helios | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 3  | wrf_to_persephone | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 4  | wrf_to_tell | [Code](https://github.com/IMMM-SFA/im3components/tree/main/im3components/wrf_to_tell) | /pic/projects/im3/exp_group_b_test/output_data/wrf_to_tell | TBD |
