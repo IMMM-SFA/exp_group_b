@@ -6,7 +6,7 @@ required for IM3 Exp. Group B experiments. This metarepository is meant to be a 
 demonstration. The basic idea is that we should work off of the wiring diagram below and actually go through
 the process of connecting the models together. At this stage all the component models are producing at least sample 
 output datasets. Those sample outputs are sufficient for this demonstration as the purpose is to understand which 
-couplings and data passes are complete and which still need more development.
+couplings and data passes are complete or at least have been tested and which still need more development.
 
 <p align="center">
   <img src="experiment_diagram/experiment-B-N6_interconnect.png" />
@@ -14,7 +14,8 @@ couplings and data passes are complete and which still need more development.
 
 For the sake of the demonstration we will use the RCP 8.5 "hotter" climate forcing with the SSP5 socioeconomic
 forcing: rcp85hotter_ssp5. Please use this scenario name in your output directories. If you are passing sample data 
-that is not from the rcp85hotter_ssp5 scenario then just label your output directory "sample_data".
+that is not from the rcp85hotter_ssp5 scenario then just label your output directory "sample_data". If your model only
+runs for a single year then use the year 2030 for testing.
 
 Please store your data for this demonstration on PNNL's Institutional Computing (PIC) at: `/pic/projects/im3/exp_group_b_test`
 
@@ -26,14 +27,14 @@ Please store your data for this demonstration on PNNL's Institutional Computing 
 ## Contributing models
 | Model | Status | Version | Code |
 |:-:|:-:|:-:|:--|
-| WRF | 🟢 | v4.2.1 | https://github.com/IMMM-SFA/wrf_historical |
+| WRF | 🟢 | v4.2.1 | [Code](https://github.com/IMMM-SFA/wrf_historical) |
 | Population | 🟡 | TBD | TBD |
-| Xanthos | 🟡 | v2.4.1 | https://github.com/JGCRI/xanthos |
+| Xanthos | 🟡 | v2.4.1 | [Code](https://github.com/JGCRI/xanthos) |
 | Helios | 🟡 | v1.0.0 | TBD |
 | Persephone | 🟡 | TBD | TBD |
-| GCAM-USA | 🟡 | v5.3 | https://stash.pnnl.gov/projects/JGCRI/repos/gcam-core/browse?at=refs%2Fheads%2Fzk%2Ffeature%2Fgcam-usa-im3 |
-| TELL | 🟡 | v1.0 | https://github.com/IMMM-SFA/tell |
-| CERF | 🟡 | v2.0.9 | https://github.com/IMMM-SFA/cerf |
+| GCAM-USA | 🟡 | v5.3 | [Code](https://stash.pnnl.gov/projects/JGCRI/repos/gcam-core/browse?at=refs%2Fheads%2Fzk%2Ffeature%2Fgcam-usa-im3) |
+| TELL | 🟡 | v1.0 | [Code](https://github.com/IMMM-SFA/tell) |
+| CERF | 🟡 | v2.0.9 | [Code](https://github.com/IMMM-SFA/cerf) |
 | GO | 🟡 | TBD | TBD |
 
 ## Forcing data
