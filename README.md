@@ -41,10 +41,12 @@ about the forcing data are provided in the table below.
 | Climate | NERSC | 2060-2099 | /global/cfs/cdirs/m2702/gsharing/CONUS_TGW_WRF_SSP585_HOT_FAR | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/1979809807/Accessing+Historical+and+Future+IM3+Climate+Forcing) |
 | Population | PIC | 2020-2100 | /pic/projects/im3/exp_group_b_test/forcing_data/population | TBD |
 
+<span style="color:blue">some *blue* text</span>
+
 ## Model coupling
 | # | From/To | Code | Directory | Documentation |
 |---|---------|------|-----------| --------------|
-| 1  | wrf_to_xanthos | <span style="color: red;">TBD</span> | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
+| 1  | wrf_to_xanthos | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 2  | wrf_to_helios | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 3  | wrf_to_persephone | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 4  | wrf_to_tell | [Code](https://github.com/IMMM-SFA/im3components/tree/main/im3components/wrf_to_tell) | /pic/projects/im3/exp_group_b_test/output_data/wrf_to_tell | TBD |
