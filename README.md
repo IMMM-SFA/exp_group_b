@@ -25,7 +25,7 @@ Please store your data for this demonstration on PNNL's Institutional Computing 
 
 ## Contributing models
 | Model | Status | Version | Code |
-|-------|--------|---------|------|
+|:--|:-:|:-:|:--|
 | WRF | 🟢 | v4.2.1 | https://github.com/IMMM-SFA/wrf_historical |
 | Population | 🟡 | TBD | TBD |
 | Xanthos | 🟡 | v2.4.1 | https://github.com/JGCRI/xanthos |
