@@ -25,7 +25,7 @@ Please store your data for this demonstration on PNNL's Institutional Computing 
 🔴 = Planned 
 
 ## Contributing models
-| Model | Status | Version | Code |
+| Model | Status | Version | Model Source Code |
 |:-:|:-:|:-:|:--|
 | WRF | 🟢 | v4.2.1 | [Code](https://github.com/IMMM-SFA/wrf_historical) |
 | Population | 🟡 | TBD | TBD |
@@ -48,7 +48,7 @@ about the forcing data are provided in the table below.
 | Population | 🟢 | PIC | 2020-2100 | /pic/projects/im3/exp_group_b_test/forcing_data/population | TBD |
 
 ## Model coupling
-| # | From/To | Status | Code | Directory | Documentation |
+| # | From/To | Status | Component Code | Directory | Documentation |
 |:-:|:-:|:-:|:-:|:--|:-:|
 | 1  | wrf_to_xanthos | 🟡 | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
 | 2  | wrf_to_helios | 🟡 | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
