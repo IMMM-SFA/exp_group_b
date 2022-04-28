@@ -1,11 +1,11 @@
 # End-to-End Demonstration of Exp. Group B Workflow
 
 ## Summary
-We are now at the stage where it is possible to conduct an end-to-end demonstration of the models and model couplings 
+We are now at the stage where it is possible to conduct an end-to-end demonstration of the models and model couplings
 required for IM3 Exp. Group B experiments. This metarepository is meant to be a landing place for that
 demonstration. The basic idea is that we should work off of the wiring diagram below and actually go through
-the process of connecting the models together. At this stage all the component models are producing at least sample 
-output datasets. Those sample outputs are sufficient for this demonstration as the purpose is to understand which 
+the process of connecting the models together. At this stage all the component models are producing at least sample
+output datasets. Those sample outputs are sufficient for this demonstration as the purpose is to understand which
 couplings and data passes are complete or at least have been tested and which still need more development.
 
 <p align="center">
@@ -13,7 +13,7 @@ couplings and data passes are complete or at least have been tested and which st
 </p>
 
 For the sake of the demonstration we will use the RCP 8.5 "hotter" climate forcing with the SSP5 socioeconomic
-forcing: rcp85hotter_ssp5. Please use this scenario name in your output directories. If you are passing sample data 
+forcing: rcp85hotter_ssp5. Please use this scenario name in your output directories. If you are passing sample data
 that is not from the rcp85hotter_ssp5 scenario then just label your output directory "sample_data". If your model only
 runs for a single year then use the year 2030 for testing.
 
@@ -22,7 +22,7 @@ Please store your data for this demonstration on PNNL's Institutional Computing 
 ## Legend
 🟢 = Completed  
 🟡 = In progress  
-🔴 = Planned 
+🔴 = Planned
 
 ## Contributing models
 | Model | Status | Version | Model Source Code |
@@ -38,7 +38,7 @@ Please store your data for this demonstration on PNNL's Institutional Computing 
 | GO | 🟡 | TBD | TBD |
 
 ## Forcing data
-For this demonstration we'll use the IM3 WRF and population dynamics runs for the rcp85hotter_ssp5 scenario. Details 
+For this demonstration we'll use the IM3 WRF and population dynamics runs for the rcp85hotter_ssp5 scenario. Details
 about the forcing data are provided in the table below.
 
 | Type | Status | Platform | Years | Directory | Documentation |
@@ -61,8 +61,8 @@ about the forcing data are provided in the table below.
 | 9  | helios_to_gcamusa | 🟡 | TBD | TBD | TBD |
 | 10 | osiris_to_gcamusa | 🟡 | TBD | TBD | TBD |
 | 11 | gcamusa_to_tell | 🟢 | TBD | /pic/projects/im3/exp_group_b_test/output_data/gcamusa/sample_output | TBD |
-| 12 | gcamusa_to_cerf | 🔴 | TBD | TBD | TBD |
+| 12 | gcamusa_to_cerf | 🟡 | TBD | TBD | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/2318925866/GCAM-USA+Inputs+to+CERF) |
 | 13 | gcamusa_to_go | 🔴 | TBD | TBD | TBD |
 | 14 | tell_to_go | 🟡 | TBD | /pic/projects/im3/exp_group_b_test/output_data/tell/sample_output | TBD |
-| 15 | cerf_to_go | 🔴 | TBD | TBD | TBD |
+| 15 | cerf_to_go | 🟡 | TBD | TBD | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/2322333697/CERF+Outputs) |
 | 16 | go_to_cerf | 🔴 | TBD | TBD | TBD |
