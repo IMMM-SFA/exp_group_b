@@ -35,7 +35,7 @@ Please store your data for this demonstration on PNNL's Institutional Computing 
 | GCAM-USA | 🟡 | v5.3 | [Code](https://stash.pnnl.gov/projects/JGCRI/repos/gcam-core/browse?at=refs%2Fheads%2Fzk%2Ffeature%2Fgcam-usa-im3) |
 | TELL | 🟡 | v1.0 | [Code](https://github.com/IMMM-SFA/tell) |
 | CERF | 🟡 | v2.0.9 | [Code](https://github.com/IMMM-SFA/cerf) |
-| GO | 🟡 | TBD | TBD |
+| GO | 🟡 | TBD | [Code](https://github.com/IMMM-SFA/IM3_WECC) |
 
 ## Forcing data
 For this demonstration we'll use the IM3 WRF and population dynamics runs for the rcp85hotter_ssp5 scenario. Details
