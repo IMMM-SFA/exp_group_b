@@ -65,4 +65,4 @@ about the forcing data are provided in the table below.
 | 13 | gcamusa_to_go | 🔴 | TBD | TBD | TBD |
 | 14 | tell_to_go | 🟡 | TBD | /pic/projects/im3/exp_group_b_test/output_data/tell/sample_output | TBD |
 | 15 | cerf_to_go | 🟡 | TBD | /pic/projects/im3/exp_group_b_test/output_data/cerf/sample_output | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/2322333697/CERF+Outputs) |
-| 16 | go_to_cerf | 🔴 | TBD | TBD | TBD |
+| 16 | go_to_cerf | 🔴 | TBD | /pic/projects/im3/exp_group_b_test/output_data/go/sample_output | TBD |
