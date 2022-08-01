@@ -48,21 +48,21 @@ about the forcing data are provided in the table below.
 | Population | 🟢 | PIC | 2020-2100 | /pic/projects/im3/exp_group_b_test/forcing_data/population | TBD |
 
 ## Model coupling
-| # | From/To | Status | Component Code | Directory | Documentation |
-|:-:|:-:|:-:|:-:|:--|:-:|
-| 1  | wrf_to_xanthos | 🟡 | TBD | /global/cfs/cdirs/m2702/gcamusa/wrf_to_xanthos | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
-| 2  | wrf_to_helios | 🟡 | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
-| 3  | wrf_to_osiris | 🟡 | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
-| 4  | wrf_to_tell | 🟢 | [Code](https://github.com/IMMM-SFA/im3components/tree/main/im3components/wrf_to_tell) | /pic/projects/im3/exp_group_b_test/forcing_data/wrf_to_tell/wrf_tell_bas_output/rcp85hotter_ssp5 | [Documentation](https://github.com/IMMM-SFA/im3components/tree/main/im3components/wrf_to_tell) |
-| 5  | wrf_to_go | 🔴 | TBD | TBD | TBD |
-| 6  | pop_to_gcamusa | 🟢 | TBD | TBD | TBD |
-| 7  | pop_to_tell | 🟢 | TBD | /pic/projects/im3/exp_group_b_test/forcing_data/population | TBD |
-| 8  | xanthos_to_gcamusa | 🟡 | TBD | TBD | TBD |
-| 9  | helios_to_gcamusa | 🟡 | TBD | TBD | TBD |
-| 10 | osiris_to_gcamusa | 🟡 | TBD | TBD | TBD |
-| 11 | gcamusa_to_tell | 🟢 | TBD | /pic/projects/im3/exp_group_b_test/output_data/gcamusa/sample_output | TBD |
-| 12 | gcamusa_to_cerf | 🟡 | TBD | /pic/projects/im3/gcamusa/diagnostics/outputs_CERF | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/2318925866/GCAM-USA+Inputs+to+CERF) |
-| 13 | gcamusa_to_go | 🔴 | TBD | TBD | TBD |
-| 14 | tell_to_go | 🟡 | TBD | /pic/projects/im3/exp_group_b_test/output_data/tell/sample_output | TBD |
-| 15 | cerf_to_go | 🟡 | TBD | /pic/projects/im3/exp_group_b_test/output_data/cerf/sample_output | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/2322333697/CERF+Outputs) |
-| 16 | go_to_cerf | 🔴 | TBD | /pic/projects/im3/exp_group_b_test/output_data/go/sample_output | TBD |
+| # | From/To | Status | Target Date | Component Code | Directory | Documentation |
+|:-:|:-:|:-:|:-:|:--|:--|:-:|
+| 1  | wrf_to_xanthos | 🟢 | TBD |TBD | /global/cfs/cdirs/m2702/gcamusa/wrf_to_xanthos | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
+| 2  | wrf_to_helios | 🟢 | TBD | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
+| 3  | wrf_to_osiris | 🟢 | TBD | TBD | TBD | [Documentation](https://immm-sfa.github.io/khan-etal_2022_im3gcamusa/) |
+| 4  | wrf_to_tell | 🟢 | TBD | [Code](https://github.com/IMMM-SFA/im3components/tree/main/im3components/wrf_to_tell) | /pic/projects/im3/exp_group_b_test/forcing_data/wrf_to_tell/wrf_tell_bas_output/rcp85hotter_ssp5 | [Documentation](https://github.com/IMMM-SFA/im3components/tree/main/im3components/wrf_to_tell) |
+| 5  | wrf_to_go | 🟡 | TBD | TBD | TBD | TBD |
+| 6  | pop_to_gcamusa | 🟢 | TBD | TBD | TBD | TBD |
+| 7  | pop_to_tell | 🟢 | TBD | TBD | /pic/projects/im3/exp_group_b_test/forcing_data/population | TBD |
+| 8  | xanthos_to_gcamusa | 🟢 | TBD | TBD | TBD | TBD |
+| 9  | helios_to_gcamusa | 🟢 | TBD | TBD | TBD | TBD |
+| 10 | osiris_to_gcamusa | 🟡 | TBD | TBD | TBD | TBD |
+| 11 | gcamusa_to_tell | 🟢 | TBD | TBD | /pic/projects/im3/exp_group_b_test/output_data/gcamusa/sample_output | TBD |
+| 12 | gcamusa_to_cerf | 🟡 | TBD | TBD | /pic/projects/im3/gcamusa/diagnostics/outputs_CERF | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/2318925866/GCAM-USA+Inputs+to+CERF) |
+| 13 | gcamusa_to_go | 🟡 | TBD | TBD | TBD | TBD |
+| 14 | tell_to_go | 🟡 | TBD | TBD | /pic/projects/im3/exp_group_b_test/output_data/tell/sample_output | TBD |
+| 15 | cerf_to_go | 🟡 | TBD | TBD | /pic/projects/im3/exp_group_b_test/output_data/cerf/sample_output | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/2322333697/CERF+Outputs) |
+| 16 | go_to_cerf | 🟡 | TBD | TBD | /pic/projects/im3/exp_group_b_test/output_data/go/sample_output | TBD |
