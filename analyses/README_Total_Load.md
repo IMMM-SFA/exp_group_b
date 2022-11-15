@@ -13,8 +13,7 @@ by the GCAM-USA and TELL models. Total loads are analyzed across the eight IM3 s
 | Name | Total Load |
 | :-: | :-: |
 | Alaska | <img src="plots/total_load/AK_Load_Projections.png" width="50"> |
-| Alaska | [Plot](plots/total_load/AK_Load_Projections.png) |
-| Alabama | [Plot](plots/total_load/AL_Load_Projections.png) |
+| Alabama | <img src="plots/total_load/AL_Load_Projections.png" width="50"> |
 | Arkansas | [Plot](plots/total_load/AR_Load_Projections.png) |
 | Arizona | [Plot](plots/total_load/AZ_Load_Projections.png) |
 | California | [Plot](plots/total_load/CA_Load_Projections.png) |
