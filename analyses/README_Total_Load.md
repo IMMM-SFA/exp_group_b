@@ -12,5 +12,5 @@ by the GCAM-USA and TELL models. Total loads are analyzed across the eight IM3 s
 >
 | Name | Total Load |
 | :-: | :-: |
-| Alaska | [Plot](analyses/plots/total_load/AK_Load_Projections.png) |
+| Alaska | [Plot](plots/total_load/AK_Load_Projections.png) |
 
