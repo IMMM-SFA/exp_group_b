@@ -6,7 +6,7 @@
 # -----------------
 
 # Directories
-/analyses/data
+#/analyses/data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

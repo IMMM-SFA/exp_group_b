@@ -1,0 +1,589 @@
+Name,Scenario_One,Scenario_Two,Mean_Break_Year,Mean_Break_Value_%,Peak_Break_Year,Peak_Break_Value_%
+Alabama,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,12.13,2035.0,12.13
+Arizona,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,14.49,2035.0,10.7
+Arkansas,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,12.54,2035.0,12.61
+California,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,10.51,2040.0,10.33
+Colorado,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,13.74,2040.0,14.31
+Connecticut,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,14.47,2040.0,14.59
+Delaware,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.0,2035.0,10.02
+District of Columbia,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,12.28,2040.0,12.34
+Florida,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,12.98,2040.0,12.81
+Georgia,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.54,2035.0,10.46
+Idaho,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,15.16,2035.0,11.04
+Illinois,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,12.16,2040.0,12.6
+Indiana,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.13,2035.0,10.02
+Iowa,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.4,2035.0,10.2
+Kansas,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.24,2035.0,10.03
+Kentucky,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,11.54,2035.0,11.84
+Louisiana,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.07,2040.0,15.53
+Maine,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,13.43,2035.0,13.56
+Maryland,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,13.26,2040.0,13.32
+Massachusetts,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,13.46,2040.0,13.59
+Michigan,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,14.49,2040.0,14.43
+Minnesota,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,14.07,2040.0,13.75
+Mississippi,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,12.54,2035.0,12.42
+Missouri,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.2,2035.0,10.02
+Montana,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,11.37,2035.0,11.92
+Nebraska,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.4,2035.0,10.43
+Nevada,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,14.14,2035.0,10.28
+New Hampshire,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,11.66,2035.0,11.79
+New Jersey,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,12.27,2040.0,12.33
+New Mexico,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,15.89,2040.0,15.84
+New York,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,12.69,2040.0,13.08
+North Carolina,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,11.13,2035.0,11.28
+North Dakota,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.78,2035.0,10.75
+Ohio,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,14.73,2040.0,14.79
+Oklahoma,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.8,2035.0,10.76
+Oregon,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,12.73,2040.0,12.73
+Pennsylvania,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,15.21,2040.0,15.28
+Rhode Island,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,14.1,2040.0,14.22
+South Carolina,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,11.11,2035.0,11.14
+South Dakota,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,11.86,2035.0,11.66
+Tennessee,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.61,2035.0,10.97
+Texas,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,14.62,2040.0,14.36
+Utah,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,12.37,2040.0,11.85
+Vermont,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,13.55,2035.0,13.68
+Virginia,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,10.79,2035.0,10.93
+Washington,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,11.7,2040.0,11.62
+West Virginia,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,11.81,2035.0,11.83
+Wisconsin,rcp85hotter_ssp5,rcp85hotter_ssp3,2040.0,14.07,2040.0,14.05
+Wyoming,rcp85hotter_ssp5,rcp85hotter_ssp3,2035.0,11.8,2035.0,12.06
+Alabama,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Arizona,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Arkansas,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+California,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Colorado,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Connecticut,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Delaware,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+District of Columbia,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Florida,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Georgia,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Idaho,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Illinois,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Indiana,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Iowa,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Kansas,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Kentucky,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Louisiana,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Maine,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Maryland,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Massachusetts,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Michigan,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Minnesota,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Mississippi,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Missouri,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Montana,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Nebraska,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Nevada,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+New Hampshire,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+New Jersey,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+New Mexico,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+New York,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+North Carolina,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+North Dakota,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Ohio,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Oklahoma,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Oregon,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Pennsylvania,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Rhode Island,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+South Carolina,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+South Dakota,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Tennessee,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Texas,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Utah,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Vermont,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Virginia,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Washington,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+West Virginia,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Wisconsin,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Wyoming,rcp85hotter_ssp3,rcp85cooler_ssp3,,,,
+Alabama,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,13.32,2070.0,15.56
+Arizona,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,11.66,2070.0,13.23
+Arkansas,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,11.26,2065.0,10.35
+California,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,13.01,2070.0,14.91
+Colorado,rcp85hotter_ssp3,rcp45hotter_ssp3,2080.0,11.35,2060.0,11.83
+Connecticut,rcp85hotter_ssp3,rcp45hotter_ssp3,,,2085.0,12.31
+Delaware,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,10.28,2070.0,12.26
+District of Columbia,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,13.87,2070.0,15.85
+Florida,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,18.25,2065.0,10.17
+Georgia,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,12.68,2070.0,14.91
+Idaho,rcp85hotter_ssp3,rcp45hotter_ssp3,2080.0,10.66,2060.0,11.4
+Illinois,rcp85hotter_ssp3,rcp45hotter_ssp3,2075.0,11.09,2065.0,10.2
+Indiana,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,10.93,2065.0,10.15
+Iowa,rcp85hotter_ssp3,rcp45hotter_ssp3,2080.0,11.3,2055.0,10.28
+Kansas,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,11.35,2055.0,10.21
+Kentucky,rcp85hotter_ssp3,rcp45hotter_ssp3,2075.0,10.41,2070.0,10.09
+Louisiana,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,15.09,2065.0,10.24
+Maine,rcp85hotter_ssp3,rcp45hotter_ssp3,,,,
+Maryland,rcp85hotter_ssp3,rcp45hotter_ssp3,2085.0,12.25,2070.0,11.61
+Massachusetts,rcp85hotter_ssp3,rcp45hotter_ssp3,,,2075.0,10.91
+Michigan,rcp85hotter_ssp3,rcp45hotter_ssp3,2085.0,11.9,2075.0,12.81
+Minnesota,rcp85hotter_ssp3,rcp45hotter_ssp3,,,,
+Mississippi,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,14.15,2065.0,10.37
+Missouri,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,10.9,2065.0,11.33
+Montana,rcp85hotter_ssp3,rcp45hotter_ssp3,2060.0,10.71,2055.0,10.91
+Nebraska,rcp85hotter_ssp3,rcp45hotter_ssp3,2080.0,12.97,2055.0,10.89
+Nevada,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,11.91,2070.0,14.04
+New Hampshire,rcp85hotter_ssp3,rcp45hotter_ssp3,,,,
+New Jersey,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,14.45,2070.0,16.49
+New Mexico,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,10.56,2060.0,11.73
+New York,rcp85hotter_ssp3,rcp45hotter_ssp3,2075.0,12.09,2070.0,11.93
+North Carolina,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,10.39,2070.0,12.76
+North Dakota,rcp85hotter_ssp3,rcp45hotter_ssp3,,,2085.0,10.05
+Ohio,rcp85hotter_ssp3,rcp45hotter_ssp3,2075.0,11.81,2070.0,10.62
+Oklahoma,rcp85hotter_ssp3,rcp45hotter_ssp3,2080.0,12.35,2055.0,11.27
+Oregon,rcp85hotter_ssp3,rcp45hotter_ssp3,,,2080.0,10.7
+Pennsylvania,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,10.28,2070.0,12.26
+Rhode Island,rcp85hotter_ssp3,rcp45hotter_ssp3,2085.0,10.31,2075.0,12.76
+South Carolina,rcp85hotter_ssp3,rcp45hotter_ssp3,2070.0,11.86,2070.0,14.43
+South Dakota,rcp85hotter_ssp3,rcp45hotter_ssp3,2080.0,10.28,2055.0,10.51
+Tennessee,rcp85hotter_ssp3,rcp45hotter_ssp3,2075.0,13.15,2070.0,12.09
+Texas,rcp85hotter_ssp3,rcp45hotter_ssp3,2065.0,10.99,2060.0,10.8
+Utah,rcp85hotter_ssp3,rcp45hotter_ssp3,2080.0,11.41,2060.0,10.89
+Vermont,rcp85hotter_ssp3,rcp45hotter_ssp3,,,,
+Virginia,rcp85hotter_ssp3,rcp45hotter_ssp3,2075.0,13.06,2070.0,11.3
+Washington,rcp85hotter_ssp3,rcp45hotter_ssp3,,,,
+West Virginia,rcp85hotter_ssp3,rcp45hotter_ssp3,,,2075.0,10.12
+Wisconsin,rcp85hotter_ssp3,rcp45hotter_ssp3,,,2085.0,11.8
+Wyoming,rcp85hotter_ssp3,rcp45hotter_ssp3,2065.0,10.73,2060.0,12.14
+Alabama,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,14.81,2035.0,14.81
+Arizona,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.35,2035.0,14.34
+Arkansas,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,15.42,2035.0,15.44
+California,rcp45cooler_ssp5,rcp45cooler_ssp3,2040.0,14.59,2040.0,14.45
+Colorado,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.13,2035.0,12.69
+Connecticut,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,11.52,2035.0,11.65
+Delaware,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.48,2035.0,12.49
+District of Columbia,rcp45cooler_ssp5,rcp45cooler_ssp3,2040.0,14.37,2040.0,14.42
+Florida,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,11.21,2035.0,11.11
+Georgia,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.54,2035.0,12.49
+Idaho,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.45,2035.0,14.23
+Illinois,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,10.05,2035.0,10.46
+Indiana,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.74,2035.0,12.65
+Iowa,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.57,2035.0,12.4
+Kansas,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.51,2035.0,12.17
+Kentucky,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,14.45,2035.0,14.72
+Louisiana,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,13.13,2035.0,13.01
+Maine,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,15.1,2035.0,15.23
+Maryland,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,10.23,2035.0,10.24
+Massachusetts,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,10.5,2035.0,10.63
+Michigan,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,11.45,2035.0,11.37
+Minnesota,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,10.96,2035.0,10.83
+Mississippi,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,15.34,2035.0,15.21
+Missouri,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.18,2035.0,12.0
+Montana,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,15.65,2035.0,16.1
+Nebraska,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.58,2035.0,12.46
+Nevada,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,11.89,2035.0,13.52
+New Hampshire,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,13.31,2035.0,13.44
+New Jersey,rcp45cooler_ssp5,rcp45cooler_ssp3,2040.0,14.84,2040.0,14.9
+New Mexico,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,14.07,2035.0,13.97
+New York,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,10.52,2035.0,10.88
+North Carolina,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,13.05,2035.0,13.23
+North Dakota,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.99,2035.0,12.89
+Ohio,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,11.86,2035.0,11.88
+Oklahoma,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,14.0,2035.0,13.84
+Oregon,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,10.48,2035.0,10.63
+Pennsylvania,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,11.54,2035.0,11.56
+Rhode Island,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,11.29,2035.0,11.42
+South Carolina,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,13.2,2035.0,13.22
+South Dakota,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,14.03,2035.0,13.78
+Tennessee,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,13.31,2035.0,13.65
+Texas,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.41,2035.0,12.38
+Utah,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,10.58,2035.0,10.0
+Vermont,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,15.29,2035.0,15.42
+Virginia,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,12.26,2035.0,12.38
+Washington,rcp45cooler_ssp5,rcp45cooler_ssp3,2040.0,14.27,2040.0,14.16
+West Virginia,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,13.76,2035.0,13.77
+Wisconsin,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,11.31,2035.0,11.29
+Wyoming,rcp45cooler_ssp5,rcp45cooler_ssp3,2035.0,15.86,2035.0,16.05
+Alabama,rcp85cooler_ssp5,rcp45cooler_ssp5,,,2090.0,13.14
+Arizona,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Arkansas,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+California,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Colorado,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Connecticut,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Delaware,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+District of Columbia,rcp85cooler_ssp5,rcp45cooler_ssp5,2085.0,10.43,2075.0,13.35
+Florida,rcp85cooler_ssp5,rcp45cooler_ssp5,2090.0,12.23,2090.0,14.39
+Georgia,rcp85cooler_ssp5,rcp45cooler_ssp5,,,2090.0,15.19
+Idaho,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Illinois,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Indiana,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Iowa,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Kansas,rcp85cooler_ssp5,rcp45cooler_ssp5,2085.0,10.1,2080.0,12.74
+Kentucky,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Louisiana,rcp85cooler_ssp5,rcp45cooler_ssp5,,,2090.0,11.54
+Maine,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Maryland,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Massachusetts,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Michigan,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Minnesota,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Mississippi,rcp85cooler_ssp5,rcp45cooler_ssp5,,,2090.0,12.4
+Missouri,rcp85cooler_ssp5,rcp45cooler_ssp5,,,2080.0,11.27
+Montana,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Nebraska,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Nevada,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+New Hampshire,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+New Jersey,rcp85cooler_ssp5,rcp45cooler_ssp5,,,2085.0,12.48
+New Mexico,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+New York,rcp85cooler_ssp5,rcp45cooler_ssp5,,,2085.0,10.4
+North Carolina,rcp85cooler_ssp5,rcp45cooler_ssp5,,,2090.0,13.49
+North Dakota,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Ohio,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Oklahoma,rcp85cooler_ssp5,rcp45cooler_ssp5,,,2080.0,10.03
+Oregon,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Pennsylvania,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Rhode Island,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+South Carolina,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+South Dakota,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Tennessee,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Texas,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Utah,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Vermont,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Virginia,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Washington,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+West Virginia,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Wisconsin,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Wyoming,rcp85cooler_ssp5,rcp45cooler_ssp5,,,,
+Alabama,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Arizona,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Arkansas,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+California,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Colorado,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Connecticut,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Delaware,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+District of Columbia,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Florida,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Georgia,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Idaho,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Illinois,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Indiana,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Iowa,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Kansas,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Kentucky,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Louisiana,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Maine,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Maryland,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Massachusetts,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Michigan,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Minnesota,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Mississippi,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Missouri,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Montana,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Nebraska,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Nevada,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+New Hampshire,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+New Jersey,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+New Mexico,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+New York,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+North Carolina,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+North Dakota,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Ohio,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Oklahoma,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Oregon,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Pennsylvania,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Rhode Island,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+South Carolina,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+South Dakota,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Tennessee,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Texas,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Utah,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Vermont,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Virginia,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Washington,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+West Virginia,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Wisconsin,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Wyoming,rcp45hotter_ssp5,rcp45cooler_ssp5,,,,
+Alabama,rcp85hotter_ssp5,rcp45hotter_ssp5,2090.0,11.3,2075.0,10.71
+Arizona,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Arkansas,rcp85hotter_ssp5,rcp45hotter_ssp5,,,2080.0,12.2
+California,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Colorado,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Connecticut,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Delaware,rcp85hotter_ssp5,rcp45hotter_ssp5,,,2085.0,12.21
+District of Columbia,rcp85hotter_ssp5,rcp45hotter_ssp5,2070.0,11.49,2070.0,13.45
+Florida,rcp85hotter_ssp5,rcp45hotter_ssp5,2070.0,11.81,2070.0,12.69
+Georgia,rcp85hotter_ssp5,rcp45hotter_ssp5,2090.0,13.46,2075.0,11.14
+Idaho,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Illinois,rcp85hotter_ssp5,rcp45hotter_ssp5,,,2085.0,11.02
+Indiana,rcp85hotter_ssp5,rcp45hotter_ssp5,,,2080.0,10.56
+Iowa,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Kansas,rcp85hotter_ssp5,rcp45hotter_ssp5,2080.0,13.0,2070.0,10.95
+Kentucky,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Louisiana,rcp85hotter_ssp5,rcp45hotter_ssp5,2090.0,10.22,2075.0,11.12
+Maine,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Maryland,rcp85hotter_ssp5,rcp45hotter_ssp5,2090.0,13.28,2075.0,13.26
+Massachusetts,rcp85hotter_ssp5,rcp45hotter_ssp5,,,2085.0,11.1
+Michigan,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Minnesota,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Mississippi,rcp85hotter_ssp5,rcp45hotter_ssp5,2090.0,11.28,2075.0,11.04
+Missouri,rcp85hotter_ssp5,rcp45hotter_ssp5,2080.0,11.86,2070.0,10.81
+Montana,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Nebraska,rcp85hotter_ssp5,rcp45hotter_ssp5,,,2080.0,13.0
+Nevada,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+New Hampshire,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+New Jersey,rcp85hotter_ssp5,rcp45hotter_ssp5,2070.0,10.62,2070.0,12.67
+New Mexico,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+New York,rcp85hotter_ssp5,rcp45hotter_ssp5,2085.0,11.26,2075.0,12.85
+North Carolina,rcp85hotter_ssp5,rcp45hotter_ssp5,2090.0,13.68,2075.0,10.72
+North Dakota,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Ohio,rcp85hotter_ssp5,rcp45hotter_ssp5,,,2085.0,11.25
+Oklahoma,rcp85hotter_ssp5,rcp45hotter_ssp5,2090.0,12.01,2080.0,12.67
+Oregon,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Pennsylvania,rcp85hotter_ssp5,rcp45hotter_ssp5,,,2085.0,13.42
+Rhode Island,rcp85hotter_ssp5,rcp45hotter_ssp5,,,2085.0,12.62
+South Carolina,rcp85hotter_ssp5,rcp45hotter_ssp5,2090.0,11.32,2080.0,11.08
+South Dakota,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Tennessee,rcp85hotter_ssp5,rcp45hotter_ssp5,,,2075.0,11.37
+Texas,rcp85hotter_ssp5,rcp45hotter_ssp5,,,2080.0,11.12
+Utah,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Vermont,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Virginia,rcp85hotter_ssp5,rcp45hotter_ssp5,2090.0,13.45,2075.0,11.51
+Washington,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+West Virginia,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Wisconsin,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Wyoming,rcp85hotter_ssp5,rcp45hotter_ssp5,,,,
+Alabama,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,14.72,2035.0,14.71
+Arizona,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.45,2035.0,14.34
+Arkansas,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,15.36,2035.0,15.39
+California,rcp45hotter_ssp5,rcp45hotter_ssp3,2040.0,14.61,2040.0,14.44
+Colorado,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.14,2035.0,12.72
+Connecticut,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,11.57,2035.0,11.7
+Delaware,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.49,2035.0,12.51
+District of Columbia,rcp45hotter_ssp5,rcp45hotter_ssp3,2040.0,14.41,2040.0,14.47
+Florida,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,11.2,2035.0,11.08
+Georgia,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.45,2035.0,12.35
+Idaho,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.41,2035.0,14.24
+Illinois,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,10.11,2035.0,10.52
+Indiana,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.6,2035.0,12.5
+Iowa,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.55,2035.0,12.34
+Kansas,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.49,2035.0,12.17
+Kentucky,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,14.36,2035.0,14.64
+Louisiana,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,13.04,2035.0,12.89
+Maine,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,15.19,2035.0,15.32
+Maryland,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,10.29,2035.0,10.31
+Massachusetts,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,10.55,2035.0,10.68
+Michigan,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,11.41,2035.0,11.3
+Minnesota,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,11.0,2035.0,10.83
+Mississippi,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,15.28,2035.0,15.14
+Missouri,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.23,2035.0,12.02
+Montana,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,15.77,2035.0,16.26
+Nebraska,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.59,2035.0,12.5
+Nevada,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.09,2035.0,13.63
+New Hampshire,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,13.36,2035.0,13.49
+New Jersey,rcp45hotter_ssp5,rcp45hotter_ssp3,2040.0,14.91,2040.0,14.98
+New Mexico,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,14.08,2035.0,14.03
+New York,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,10.58,2035.0,10.91
+North Carolina,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,13.01,2035.0,13.16
+North Dakota,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,13.02,2035.0,12.92
+Ohio,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,11.79,2035.0,11.81
+Oklahoma,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,13.96,2035.0,13.81
+Oregon,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,10.6,2035.0,10.7
+Pennsylvania,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,11.61,2035.0,11.63
+Rhode Island,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,11.33,2035.0,11.46
+South Carolina,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,13.16,2035.0,13.19
+South Dakota,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,14.0,2035.0,13.74
+Tennessee,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,13.3,2035.0,13.63
+Texas,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.44,2035.0,12.39
+Utah,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,10.73,2035.0,10.26
+Vermont,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,15.31,2035.0,15.44
+Virginia,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,12.25,2035.0,12.39
+Washington,rcp45hotter_ssp5,rcp45hotter_ssp3,2040.0,14.41,2040.0,14.32
+West Virginia,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,13.68,2035.0,13.7
+Wisconsin,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,11.42,2035.0,11.36
+Wyoming,rcp45hotter_ssp5,rcp45hotter_ssp3,2035.0,15.85,2035.0,16.1
+Alabama,rcp85cooler_ssp3,rcp45cooler_ssp3,2070.0,10.67,2070.0,13.05
+Arizona,rcp85cooler_ssp3,rcp45cooler_ssp3,2070.0,10.73,2070.0,12.29
+Arkansas,rcp85cooler_ssp3,rcp45cooler_ssp3,2075.0,11.43,2070.0,10.93
+California,rcp85cooler_ssp3,rcp45cooler_ssp3,2070.0,12.61,2070.0,14.29
+Colorado,rcp85cooler_ssp3,rcp45cooler_ssp3,2080.0,11.31,2065.0,11.79
+Connecticut,rcp85cooler_ssp3,rcp45cooler_ssp3,,,2085.0,10.45
+Delaware,rcp85cooler_ssp3,rcp45cooler_ssp3,2085.0,11.03,2070.0,10.8
+District of Columbia,rcp85cooler_ssp3,rcp45cooler_ssp3,2070.0,10.76,2070.0,12.37
+Florida,rcp85cooler_ssp3,rcp45cooler_ssp3,2070.0,15.09,2070.0,16.41
+Georgia,rcp85cooler_ssp3,rcp45cooler_ssp3,2075.0,11.15,2070.0,12.05
+Idaho,rcp85cooler_ssp3,rcp45cooler_ssp3,2080.0,10.8,2065.0,10.66
+Illinois,rcp85cooler_ssp3,rcp45cooler_ssp3,2085.0,10.64,2075.0,11.94
+Indiana,rcp85cooler_ssp3,rcp45cooler_ssp3,2075.0,11.0,2075.0,12.77
+Iowa,rcp85cooler_ssp3,rcp45cooler_ssp3,2085.0,10.48,2075.0,10.34
+Kansas,rcp85cooler_ssp3,rcp45cooler_ssp3,2080.0,12.94,2065.0,11.01
+Kentucky,rcp85cooler_ssp3,rcp45cooler_ssp3,,,2075.0,10.71
+Louisiana,rcp85cooler_ssp3,rcp45cooler_ssp3,2070.0,13.2,2070.0,14.75
+Maine,rcp85cooler_ssp3,rcp45cooler_ssp3,,,,
+Maryland,rcp85cooler_ssp3,rcp45cooler_ssp3,2085.0,10.04,2075.0,13.5
+Massachusetts,rcp85cooler_ssp3,rcp45cooler_ssp3,,,2085.0,11.74
+Michigan,rcp85cooler_ssp3,rcp45cooler_ssp3,2085.0,10.65,2085.0,13.54
+Minnesota,rcp85cooler_ssp3,rcp45cooler_ssp3,,,2090.0,10.16
+Mississippi,rcp85cooler_ssp3,rcp45cooler_ssp3,2070.0,11.59,2070.0,13.53
+Missouri,rcp85cooler_ssp3,rcp45cooler_ssp3,2080.0,12.58,2070.0,10.35
+Montana,rcp85cooler_ssp3,rcp45cooler_ssp3,2065.0,10.62,2060.0,10.83
+Nebraska,rcp85cooler_ssp3,rcp45cooler_ssp3,2080.0,10.64,2070.0,10.79
+Nevada,rcp85cooler_ssp3,rcp45cooler_ssp3,2080.0,10.97,2070.0,13.02
+New Hampshire,rcp85cooler_ssp3,rcp45cooler_ssp3,,,,
+New Jersey,rcp85cooler_ssp3,rcp45cooler_ssp3,2070.0,10.71,2070.0,12.35
+New Mexico,rcp85cooler_ssp3,rcp45cooler_ssp3,2070.0,11.3,2060.0,10.21
+New York,rcp85cooler_ssp3,rcp45cooler_ssp3,2085.0,11.89,2075.0,12.32
+North Carolina,rcp85cooler_ssp3,rcp45cooler_ssp3,2075.0,10.17,2075.0,12.32
+North Dakota,rcp85cooler_ssp3,rcp45cooler_ssp3,,,2090.0,11.82
+Ohio,rcp85cooler_ssp3,rcp45cooler_ssp3,2085.0,11.85,2075.0,11.4
+Oklahoma,rcp85cooler_ssp3,rcp45cooler_ssp3,2080.0,12.05,2065.0,12.12
+Oregon,rcp85cooler_ssp3,rcp45cooler_ssp3,,,2090.0,10.27
+Pennsylvania,rcp85cooler_ssp3,rcp45cooler_ssp3,,,2070.0,10.24
+Rhode Island,rcp85cooler_ssp3,rcp45cooler_ssp3,,,2085.0,13.11
+South Carolina,rcp85cooler_ssp3,rcp45cooler_ssp3,2075.0,11.1,2070.0,12.14
+South Dakota,rcp85cooler_ssp3,rcp45cooler_ssp3,,,2080.0,10.84
+Tennessee,rcp85cooler_ssp3,rcp45cooler_ssp3,2075.0,10.72,2075.0,13.35
+Texas,rcp85cooler_ssp3,rcp45cooler_ssp3,2065.0,10.16,2065.0,11.94
+Utah,rcp85cooler_ssp3,rcp45cooler_ssp3,2080.0,11.19,2065.0,10.26
+Vermont,rcp85cooler_ssp3,rcp45cooler_ssp3,,,,
+Virginia,rcp85cooler_ssp3,rcp45cooler_ssp3,2075.0,10.82,2075.0,12.56
+Washington,rcp85cooler_ssp3,rcp45cooler_ssp3,,,,
+West Virginia,rcp85cooler_ssp3,rcp45cooler_ssp3,,,2085.0,10.4
+Wisconsin,rcp85cooler_ssp3,rcp45cooler_ssp3,,,2085.0,11.3
+Wyoming,rcp85cooler_ssp3,rcp45cooler_ssp3,2065.0,10.86,2060.0,10.93
+Alabama,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Arizona,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Arkansas,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+California,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Colorado,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Connecticut,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Delaware,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+District of Columbia,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Florida,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Georgia,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Idaho,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Illinois,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Indiana,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Iowa,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Kansas,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Kentucky,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Louisiana,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Maine,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Maryland,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Massachusetts,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Michigan,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Minnesota,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Mississippi,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Missouri,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Montana,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Nebraska,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Nevada,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+New Hampshire,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+New Jersey,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+New Mexico,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+New York,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+North Carolina,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+North Dakota,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Ohio,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Oklahoma,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Oregon,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Pennsylvania,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Rhode Island,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+South Carolina,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+South Dakota,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Tennessee,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Texas,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Utah,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Vermont,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Virginia,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Washington,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+West Virginia,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Wisconsin,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Wyoming,rcp45hotter_ssp3,rcp45cooler_ssp3,,,,
+Alabama,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,12.14,2035.0,12.14
+Arizona,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,14.43,2035.0,10.79
+Arkansas,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,12.55,2035.0,12.61
+California,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,10.5,2040.0,10.35
+Colorado,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,13.69,2040.0,14.3
+Connecticut,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,14.28,2040.0,14.42
+Delaware,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,10.01,2035.0,10.03
+District of Columbia,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,12.24,2040.0,12.28
+Florida,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,12.98,2040.0,12.82
+Georgia,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,10.59,2035.0,10.55
+Idaho,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,15.15,2035.0,11.21
+Illinois,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,11.99,2040.0,12.42
+Indiana,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,10.06,2040.0,15.62
+Iowa,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,10.29,2035.0,10.12
+Kansas,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,10.22,2040.0,16.12
+Kentucky,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,11.52,2035.0,11.8
+Louisiana,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,10.12,2035.0,10.0
+Maine,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,13.13,2035.0,13.27
+Maryland,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,13.24,2040.0,13.28
+Massachusetts,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,13.28,2040.0,13.41
+Michigan,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,14.29,2040.0,14.26
+Minnesota,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,13.95,2040.0,13.69
+Mississippi,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,12.57,2035.0,12.43
+Missouri,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,10.08,2040.0,15.17
+Montana,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,11.37,2035.0,11.87
+Nebraska,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,10.3,2035.0,10.28
+Nevada,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,14.1,2035.0,10.34
+New Hampshire,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,11.49,2035.0,11.63
+New Jersey,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,12.21,2040.0,12.27
+New Mexico,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,15.86,2040.0,15.81
+New York,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,12.53,2040.0,12.9
+North Carolina,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,11.13,2035.0,11.29
+North Dakota,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,10.59,2035.0,10.54
+Ohio,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,14.56,2040.0,14.61
+Oklahoma,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,10.77,2035.0,10.69
+Oregon,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,12.79,2040.0,12.86
+Pennsylvania,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,15.14,2040.0,15.19
+Rhode Island,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,13.91,2040.0,14.05
+South Carolina,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,11.12,2035.0,11.15
+South Dakota,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,11.74,2035.0,11.53
+Tennessee,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,10.63,2035.0,10.96
+Texas,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,14.6,2040.0,14.36
+Utah,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,12.34,2040.0,11.79
+Vermont,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,13.41,2035.0,13.56
+Virginia,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,11.03,2035.0,11.16
+Washington,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,11.68,2040.0,11.58
+West Virginia,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,11.77,2035.0,11.78
+Wisconsin,rcp85cooler_ssp5,rcp85cooler_ssp3,2040.0,13.93,2040.0,13.95
+Wyoming,rcp85cooler_ssp5,rcp85cooler_ssp3,2035.0,11.77,2035.0,11.97
+Alabama,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Arizona,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Arkansas,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+California,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Colorado,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Connecticut,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Delaware,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+District of Columbia,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Florida,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Georgia,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Idaho,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Illinois,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Indiana,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Iowa,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Kansas,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Kentucky,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Louisiana,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Maine,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Maryland,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Massachusetts,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Michigan,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Minnesota,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Mississippi,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Missouri,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Montana,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Nebraska,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Nevada,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+New Hampshire,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+New Jersey,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+New Mexico,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+New York,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+North Carolina,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+North Dakota,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Ohio,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Oklahoma,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Oregon,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Pennsylvania,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Rhode Island,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+South Carolina,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+South Dakota,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Tennessee,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Texas,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Utah,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Vermont,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Virginia,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Washington,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+West Virginia,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Wisconsin,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
+Wyoming,rcp85hotter_ssp5,rcp85cooler_ssp5,,,,
