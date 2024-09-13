@@ -9,7 +9,7 @@ output datasets. Those sample outputs are sufficient for this demonstration as t
 couplings and data passes are complete or at least have been tested and which still need more development.
 
 <p align="center">
-  <img src="experiment_diagram/experiment-B-N6_interconnect.png" />
+  <img src="experiment_diagram/experiment-B-N6_interconnect_20240913.png" />
 </p>
 
 For the sake of the demonstration we will use the RCP 8.5 "hotter" climate forcing with the SSP5 socioeconomic
