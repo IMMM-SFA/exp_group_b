@@ -32,10 +32,10 @@ Please store your data for this demonstration on PNNL's Institutional Computing 
 | Xanthos | 🟡 | v2.4.1 | [Code](https://github.com/JGCRI/xanthos) |
 | Helios | 🟡 | v1.0.0 | TBD |
 | Osiris | 🟡 | TBD | [Code](https://github.com/JGCRI/osiris) |
-| GCAM-USA | 🟡 | v5.3 | [Code](https://stash.pnnl.gov/projects/JGCRI/repos/gcam-core/browse?at=refs%2Fheads%2Fzk%2Ffeature%2Fgcam-usa-im3) |
+| GCAM-USA | 🟢 | v5.3 | [Code](https://stash.pnnl.gov/projects/JGCRI/repos/gcam-core/browse?at=refs%2Fheads%2Fzk%2Ffeature%2Fgcam-usa-im3) |
 | TELL | 🟡 | v1.0 | [Code](https://github.com/IMMM-SFA/tell) |
-| CERF | 🟡 | v2.0.9 | [Code](https://github.com/IMMM-SFA/cerf) |
-| GO | 🟡 | TBD | [Code](https://github.com/IMMM-SFA/IM3_WECC) |
+| CERF | 🟢 | v2.4.0 | [Code](https://github.com/IMMM-SFA/cerf) |
+| GO | 🟢 | TBD | [Code](https://github.com/IMMM-SFA/go) |
 
 ## Forcing data
 For this demonstration we'll use the IM3 WRF and population dynamics runs for the rcp85hotter_ssp5 scenario. Details
@@ -60,9 +60,9 @@ about the forcing data are provided in the table below.
 | 8  | xanthos_to_gcamusa | 🟢 | TBD | TBD | TBD | TBD |
 | 9  | helios_to_gcamusa | 🟢 | TBD | TBD | TBD | TBD |
 | 10 | osiris_to_gcamusa | 🟡 | TBD | TBD | TBD | TBD |
-| 11 | gcamusa_to_tell | 🟢 | TBD | TBD | /pic/projects/im3/exp_group_b_test/output_data/gcamusa/sample_output | TBD |
-| 12 | gcamusa_to_cerf | 🟡 | TBD | TBD | /pic/projects/im3/gcamusa/diagnostics/outputs_CERF | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/2318925866/GCAM-USA+Inputs+to+CERF) |
-| 13 | gcamusa_to_go | 🟡 | TBD | TBD | TBD | TBD |
-| 14 | tell_to_go | 🟡 | TBD | TBD | /pic/projects/im3/exp_group_b_test/output_data/tell/sample_output | TBD |
-| 15 | cerf_to_go | 🟡 | TBD | TBD | /pic/projects/im3/exp_group_b_test/output_data/cerf/sample_output | [Documentation](https://immm-sfa.atlassian.net/wiki/spaces/IP/pages/2322333697/CERF+Outputs) |
-| 16 | go_to_cerf | 🟡 | TBD | TBD | /pic/projects/im3/exp_group_b_test/output_data/go/sample_output | TBD |
+| 11 | gcamusa_to_tell | 🟢 | Done | [Code](https://github.com/IMMM-SFA/gcam-usa_to_downstream-models/tree/main/gcam_to_tell) | TBD | [Documentation](https://github.com/IMMM-SFA/gcam-usa_to_downstream-models/tree/main/gcam_to_tell) |
+| 12 | gcamusa_to_cerf | 🟢 | Done | [Code](https://github.com/IMMM-SFA/gcam-usa_to_downstream-models/tree/main/gcam_to_cerf) | TBD | [Documentation](https://github.com/IMMM-SFA/gcam-usa_to_downstream-models/tree/main/gcam_to_cerf) |
+| 13 | gcamusa_to_go | 🟢 | Done | [Code](https://github.com/IMMM-SFA/gcam-usa_to_downstream-models/tree/main/gcam_to_go) | TBD | [Documentation](https://github.com/IMMM-SFA/gcam-usa_to_downstream-models/tree/main/gcam_to_go) |
+| 14 | tell_to_go | 🟢 | Done | [Code](https://github.com/IMMM-SFA/go_integration_metarepo/blob/main/scripts/initialization_scripts/tell_extractor/tell_extractor.py) | /pic/projects/im3/exp_group_b_test/output_data/tell/sample_output | [Documentation](https://github.com/IMMM-SFA/go_integration_metarepo/tree/main) |
+| 15 | cerf_to_go | 🟢 | Done | [Code](https://github.com/IMMM-SFA/go_integration_metarepo/tree/main/scripts/pre_process_scripts/cerf_extractor) | /pic/projects/im3/exp_group_b_test/output_data/cerf/sample_output | [Documentation](https://github.com/IMMM-SFA/go_integration_metarepo/tree/main) |
+| 16 | go_to_cerf | 🟢 | Done | [Code](https://github.com/IMMM-SFA/cerf_integration_metarepo/tree/main/scripts/pre_process_scripts/cerf_extractor) | /pic/projects/im3/exp_group_b_test/output_data/cerf/sample_output | [Documentation](https://github.com/IMMM-SFA/cerf_integration_metarepo/tree/main) |
